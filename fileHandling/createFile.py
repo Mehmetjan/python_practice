@@ -1,0 +1,1 @@
+f = open("Createdfile.txt", "x")  # x for create file
